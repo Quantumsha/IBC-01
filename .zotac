@@ -1,12 +1,12 @@
 # Make sure to rename this file to .env before adding your private keys!!!
-PRIVATE_KEY_1=''
+PRIVATE_KEY_1='2cb45c5bfecf14185899e500c10c06f68a40f9d1b3e7b8a68f0d473cf0a0e4bf'
 # Add more if your project requires more private keys
 
 # API keys for developer tooling and infra
-OP_ALCHEMY_API_KEY=''
-BASE_ALCHEMY_API_KEY=''
-OP_BLOCKSCOUT_API_KEY=''
-BASE_BLOCKSCOUT_API_KEY=''
+OP_ALCHEMY_API_KEY='b0T8Yq-JpXyIgc50WIIUV44He2UlhNOj'
+BASE_ALCHEMY_API_KEY='PSIyrWauBPzOlpLi1qyTXE9P0pzUy1Nd'
+OP_BLOCKSCOUT_API_KEY='0fcef863-1f30-47cd-915f-76c3db9df55e'
+BASE_BLOCKSCOUT_API_KEY='1c2ad638-2cf9-434e-b610-df2761b4282f'
 TENDERLY_TOKEN=''
 
 # Contract addresses last updated on 2024-03-04, for public testnet launch
